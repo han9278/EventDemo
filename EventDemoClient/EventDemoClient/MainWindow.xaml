@@ -1,0 +1,9 @@
+﻿<Window x:Class="EventDemoClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Center" Margin="152,205,150,75" VerticalAlignment="Center" Width="215" Height="39"  Click="Button_Click"/>
+     
+    </Grid>
+</Window>

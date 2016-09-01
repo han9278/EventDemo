@@ -1,0 +1,13 @@
+E:\GitHub\WCF\EventDemo\EventDemoClient\EventDemoClient\bin\Debug\EventDemoClient.exe.config
+E:\GitHub\WCF\EventDemo\EventDemoClient\EventDemoClient\bin\Debug\EventDemoClient.exe
+E:\GitHub\WCF\EventDemo\EventDemoClient\EventDemoClient\bin\Debug\EventDemoClient.pdb
+E:\GitHub\WCF\EventDemo\EventDemoClient\EventDemoClient\obj\Debug\EventDemoClient.csprojResolveAssemblyReference.cache
+E:\GitHub\WCF\EventDemo\EventDemoClient\EventDemoClient\obj\Debug\MainWindow.baml
+E:\GitHub\WCF\EventDemo\EventDemoClient\EventDemoClient\obj\Debug\MainWindow.g.cs
+E:\GitHub\WCF\EventDemo\EventDemoClient\EventDemoClient\obj\Debug\App.g.cs
+E:\GitHub\WCF\EventDemo\EventDemoClient\EventDemoClient\obj\Debug\EventDemoClient_MarkupCompile.cache
+E:\GitHub\WCF\EventDemo\EventDemoClient\EventDemoClient\obj\Debug\EventDemoClient.g.resources
+E:\GitHub\WCF\EventDemo\EventDemoClient\EventDemoClient\obj\Debug\EventDemoClient.Properties.Resources.resources
+E:\GitHub\WCF\EventDemo\EventDemoClient\EventDemoClient\obj\Debug\EventDemoClient.csproj.GenerateResource.Cache
+E:\GitHub\WCF\EventDemo\EventDemoClient\EventDemoClient\obj\Debug\EventDemoClient.exe
+E:\GitHub\WCF\EventDemo\EventDemoClient\EventDemoClient\obj\Debug\EventDemoClient.pdb

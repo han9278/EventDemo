@@ -1,0 +1,6 @@
+E:\GitHub\WCF\EventDemo\EventDemoService\EventDemoService\bin\EventDemoService.dll.config
+E:\GitHub\WCF\EventDemo\EventDemoService\EventDemoService\bin\EventDemoService.dll
+E:\GitHub\WCF\EventDemo\EventDemoService\EventDemoService\bin\EventDemoService.pdb
+E:\GitHub\WCF\EventDemo\EventDemoService\EventDemoService\obj\Debug\EventDemoService.csprojResolveAssemblyReference.cache
+E:\GitHub\WCF\EventDemo\EventDemoService\EventDemoService\obj\Debug\EventDemoService.dll
+E:\GitHub\WCF\EventDemo\EventDemoService\EventDemoService\obj\Debug\EventDemoService.pdb
